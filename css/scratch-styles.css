@@ -1,0 +1,50 @@
+h1{
+    font-family:cursive;
+    color:cyan;
+}
+.Header {
+    text-align:center;
+    background-color: blue;
+    padding-bottom:5px;
+    padding-top:5px;
+    outline:3px solid black;
+}
+
+h2{
+    font-family:arial;
+    color:aliceblue;
+}
+.Topic{
+    position:relative;
+    text-align:center;
+    background-color: blue;
+    padding-bottom:2px;
+    padding-top:2px;
+    width:500px;
+    align-content: center;
+    outline:2px dashed magenta;
+}
+.why{
+    font-family:cursive;
+    size:50px;
+    color:magenta;
+    background-color:yellow;
+    text-align:right;
+}
+.dabby{
+    background-image:url('../assets/img/thedab.gif');
+}
+
+.actuallyOkay{
+    /* background-color:#fff0f5; */
+    background-color:rgb(255, 240, 245, 0.25);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    padding-bottom:5px;
+    padding-top:3px;
+}
+
+body{
+    background-image:url(../assets/img/background.png);
+    background-size:100% 100%;
+}
